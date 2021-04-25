@@ -45,7 +45,7 @@ class Voxel(Button):
             texture = 'white_cube',
             color = color.color(0,0,random.uniform(0.9,1)),
             highlight_color = color.lime)
-class mm():
+class mmm():
     def input(self, key):
         if Brick.hovered:
             if key == 'left mouse down':
